@@ -1,5 +1,7 @@
 # fake-bitplanes
 
+![Red,green and blue circles moving around the screen with black outlines. When the circle overlap the colours merge into yellow, cyan, teal or white](./fakebitplanes.gif)
+
 `
 width=240
 height=136
