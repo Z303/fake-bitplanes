@@ -1,4 +1,6 @@
-# fake-bitplanes
+# Fake Bitplanes
+Emulate bitplanes with some overlapping circles
+
 
 ![Red,green and blue circles moving around the screen with black outlines. When the circle overlap the colours merge into yellow, cyan, teal or white](./fakebitplanes.gif)
 
